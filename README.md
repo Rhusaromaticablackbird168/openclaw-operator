@@ -79,38 +79,6 @@ With this pack installed, your coding agent should be better at tasks like:
 - “Inspect this install and tell me why the gateway/channel is failing.”
 - “Set up provider config safely and confirm the health checks pass.”
 
-## Repo structure
-
-```text
-openclaw-operator/
-├── README.md
-├── LICENSE
-├── AGENTS.md
-├── CLAUDE.md
-├── docs/
-│   ├── install.md
-│   ├── demo-script.md
-│   └── faq.md
-├── examples/
-│   ├── prompts/
-│   │   ├── setup-provider.md
-│   │   ├── create-skill.md
-│   │   ├── add-cron-job.md
-│   │   └── troubleshoot-install.md
-│   └── screenshots/
-│       ├── hero.png
-│       ├── flow-diagram.png
-│       └── demo.gif
-└── skills/
-    └── openclaw-operator/
-        ├── SKILL.md
-        ├── assets/
-        │   └── README.md
-        └── references/
-            ├── validation_checklist.md
-            └── task-playbooks.md
-```
-
 ## Quick install
 
 You can use this pack in three places:
