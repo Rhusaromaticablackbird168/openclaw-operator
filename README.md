@@ -3,7 +3,7 @@
 Give Codex and Claude Code the context to set up, validate, and troubleshoot your OpenClaw installation.
 
 <p align="left">
-  <img alt="OpenClaw Operator hero" src="[https://your-image-host.example.com/openclaw-hero.png](https://blog.openreplay.com/images/openclaw-open-source-ai-assistant/images/hero.png)" width="100%" />
+  <img alt="OpenClaw Operator hero" src="https://blog.openreplay.com/images/openclaw-open-source-ai-assistant/images/hero.png" width="100%" />
 </p>
 
 > Bring your coding agent to your local OpenClaw install, describe what you want, and let it do the heavy lifting:
