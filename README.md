@@ -58,12 +58,6 @@ It does not magically install or configure every environment without review.
 
 It is an **operator pack**: a set of instructions, playbooks, and validation habits that help a coding agent work on an OpenClaw installation more effectively.
 
-## Demo
-
-<p align="left">
-  <img alt="OpenClaw Operator demo" src="examples/screenshots/demo.gif" width="100%" />
-</p>
-
 ### Example prompt
 
 ```text
@@ -284,14 +278,6 @@ Here’s the workflow I recommend:
 5. let the agent inspect the current state first
 6. review the proposed changes
 7. make sure it validates before finishing
-
-## Screenshots
-
-### Flow
-
-<p align="left">
-  <img alt="OpenClaw Operator flow" src="examples/screenshots/flow-diagram.png" width="100%" />
-</p>
 
 ## FAQ
 
